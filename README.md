@@ -1,14 +1,13 @@
 # 🏴‍☠️ OnePiece Shipment Manager – Console Application
 
-This project is a console application set in the One Piece universe that manages shipments, cargo, and pirate ships. The goal was to create a well-layered, maintainable, and extensible application using .NET 8 and Entity Framework Core.
+This project is a console application set in the One Piece universe that manages shipments, cargo, and pirate ships. The goal was to create a well-layered and maintainable application using .NET 8 and Entity Framework Core.
 
 ## 🎯 Features
 
 - Managing pirate ships, shipments, and cargo records
-- Adding, updating, and deleting shipments
+- Adding, updating, and deleting shipments (CRUD)
 - Automatic delay handling (e.g., if a ship hasn’t departed on time)
 - Generating reports in XML format
-- XML import and export
 - LINQ-based queries for report generation
 - Unit tests using NUnit to verify business logic
 
