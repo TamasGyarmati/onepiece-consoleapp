@@ -43,9 +43,3 @@ The project is organized into multiple layers:
 
 - .NET 8 SDK
 - Visual Studio 2022 / VS Code
-
-## ▶️ Running the application
-
-```bash
-dotnet build
-dotnet run --project O7Y5MK_HSZF_2024251.Presentation
