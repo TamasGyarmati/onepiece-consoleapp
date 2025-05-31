@@ -1,0 +1,76 @@
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.deps.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.AssemblyReference.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfoInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfo.cs
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.CoreCompileInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_H.2A5A8D52.Up2Date
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/refint/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/ref/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.runtimeconfig.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.genruntimeconfig.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.deps.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.runtimeconfig.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.AssemblyReference.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfoInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfo.cs
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.CoreCompileInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_H.2A5A8D52.Up2Date
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/refint/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.genruntimeconfig.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/ref/O7Y5MK_HSZF_2024251.Application.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.deps.json
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.runtimeconfig.json
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.pdb
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.pdb
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.AssemblyReference.cache
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfoInputs.cache
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfo.cs
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.CoreCompileInputs.cache
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_H.2A5A8D52.Up2Date
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/refint/O7Y5MK_HSZF_2024251.Application.dll
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.genruntimeconfig.cache
+D:/#1 HSZFFeleves/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251_MAC/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/ref/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.deps.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.runtimeconfig.json
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Model.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/bin/Debug/net8.0/O7Y5MK_HSZF_2024251.Persistence.MsSql.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.AssemblyReference.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfoInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.AssemblyInfo.cs
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.csproj.CoreCompileInputs.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_H.2A5A8D52.Up2Date
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/refint/O7Y5MK_HSZF_2024251.Application.dll
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.pdb
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/O7Y5MK_HSZF_2024251.Application.genruntimeconfig.cache
+/Users/tamasgyarmati/RiderProjects/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251/O7Y5MK_HSZF_2024251.Application/obj/Debug/net8.0/ref/O7Y5MK_HSZF_2024251.Application.dll

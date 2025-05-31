@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <PirateShips>
+    <PirateShip Id="1" Name="Thousand Sunny" CaptainName="Monkey D. Luffy" Capacity="5000" />
+    <PirateShip Id="2" Name="Going Merry" CaptainName="Usopp" Capacity="2000" />
+    <PirateShip Id="3" Name="Black Pearl" CaptainName="Jack Sparrow" Capacity="6000" />
+    <PirateShip Id="4" Name="Red Force" CaptainName="Shanks" Capacity="8000" />
+    <PirateShip Id="5" Name="Whitebeard's Ship" CaptainName="Edward Newgate" Capacity="9000" />
+    <PirateShip Id="6" Name="Sunny Go" CaptainName="Franky" Capacity="3500" />
+    <PirateShip Id="7" Name="Foxy's Ship" CaptainName="Foxy" Capacity="3000" />
+    <PirateShip Id="8" Name="Polar Tang" CaptainName="Franky" Capacity="4000" />
+    <PirateShip Id="9" Name="Queen Anne's Revenge" CaptainName="Edward Teach" Capacity="7000" />
+    <PirateShip Id="10" Name="Victory" CaptainName="Gordon" Capacity="5000" />
+    <PirateShip Id="11" Name="Black Maria" CaptainName="Charlotte Linlin" Capacity="8000" />
+    <PirateShip Id="12" Name="Sunny Day" CaptainName="Roronoa Zoro" Capacity="6000" />
+    <PirateShip Id="13" Name="Serpent" CaptainName="Gol D. Roger" Capacity="7500" />
+    <PirateShip Id="14" Name="Sea Serpent" CaptainName="Donquixote Doflamingo" Capacity="8500" />
+    <PirateShip Id="15" Name="Stormbreaker" CaptainName="Monkey D. Garp" Capacity="9500" />
+    <PirateShip Id="16" Name="Waverider" CaptainName="Silvers Rayleigh" Capacity="8000" />
+    <PirateShip Id="17" Name="Nightmare" CaptainName="Buggy" Capacity="3000" />
+    <PirateShip Id="18" Name="Dragonfly" CaptainName="Dracule Mihawk" Capacity="7000" />
+    <PirateShip Id="19" Name="Windrider" CaptainName="Oden Kozuki" Capacity="9000" />
+    <PirateShip Id="20" Name="Tempest" CaptainName="Don Krieg" Capacity="9500" />
+  </PirateShips>
+  <Shipments>
+    <Shipment Id="1" Date="2025-10-01T00:00:00" PirateShipId="1" />
+    <Shipment Id="2" Date="2025-10-02T00:00:00" PirateShipId="2" />
+    <Shipment Id="3" Date="2025-10-03T00:00:00" PirateShipId="3" />
+    <Shipment Id="4" Date="2025-10-04T00:00:00" PirateShipId="4" />
+    <Shipment Id="5" Date="2025-10-05T00:00:00" PirateShipId="5" />
+    <Shipment Id="6" Date="2025-10-06T00:00:00" PirateShipId="6" />
+    <Shipment Id="7" Date="2025-10-07T00:00:00" PirateShipId="7" />
+    <Shipment Id="8" Date="2025-10-08T00:00:00" PirateShipId="8" />
+    <Shipment Id="9" Date="2025-10-09T00:00:00" PirateShipId="9" />
+    <Shipment Id="10" Date="2025-10-10T00:00:00" PirateShipId="10" />
+    <Shipment Id="11" Date="2025-10-11T00:00:00" PirateShipId="11" />
+    <Shipment Id="12" Date="2025-10-12T00:00:00" PirateShipId="12" />
+    <Shipment Id="13" Date="2025-10-13T00:00:00" PirateShipId="13" />
+    <Shipment Id="14" Date="2025-10-14T00:00:00" PirateShipId="14" />
+    <Shipment Id="15" Date="2025-10-15T00:00:00" PirateShipId="15" />
+    <Shipment Id="16" Date="2025-10-16T00:00:00" PirateShipId="16" />
+    <Shipment Id="17" Date="2025-10-17T00:00:00" PirateShipId="17" />
+    <Shipment Id="18" Date="2025-10-18T00:00:00" PirateShipId="18" />
+    <Shipment Id="19" Date="2025-10-19T00:00:00" PirateShipId="19" />
+    <Shipment Id="20" Date="2025-10-20T00:00:00" PirateShipId="20" />
+  </Shipments>
+  <Cargos>
+    <Cargo Id="1" ShipmentId="1" Type="Food" Quantity="100" Value="5000.00" />
+    <Cargo Id="2" ShipmentId="2" Type="Gems" Quantity="50" Value="25000.00" />
+    <Cargo Id="3" ShipmentId="2" Type="Food" Quantity="200" Value="10000.00" />
+    <Cargo Id="4" ShipmentId="3" Type="Rum" Quantity="150" Value="7500.00" />
+    <Cargo Id="5" ShipmentId="4" Type="Weapons" Quantity="30" Value="15000.00" />
+    <Cargo Id="6" ShipmentId="5" Type="Gold" Quantity="100" Value="50000.00" />
+    <Cargo Id="7" ShipmentId="6" Type="Food" Quantity="80" Value="4000.00" />
+    <Cargo Id="8" ShipmentId="7" Type="Gems" Quantity="100" Value="5000.00" />
+    <Cargo Id="9" ShipmentId="8" Type="Weapons" Quantity="60" Value="30000.00" />
+    <Cargo Id="10" ShipmentId="9" Type="Rum" Quantity="200" Value="10000.00" />
+    <Cargo Id="11" ShipmentId="9" Type="Food" Quantity="150" Value="7500.00" />
+    <Cargo Id="12" ShipmentId="10" Type="Gold" Quantity="120" Value="60000.00" />
+    <Cargo Id="13" ShipmentId="11" Type="Food" Quantity="90" Value="4500.00" />
+    <Cargo Id="14" ShipmentId="12" Type="Rum" Quantity="110" Value="5500.00" />
+    <Cargo Id="15" ShipmentId="12" Type="Gems" Quantity="70" Value="35000.00" />
+    <Cargo Id="16" ShipmentId="13" Type="Food" Quantity="140" Value="7000.00" />
+    <Cargo Id="17" ShipmentId="14" Type="Weapons" Quantity="50" Value="25000.00" />
+    <Cargo Id="18" ShipmentId="14" Type="Gold" Quantity="60" Value="30000.00" />
+    <Cargo Id="19" ShipmentId="15" Type="Gems" Quantity="40" Value="20000.00" />
+    <Cargo Id="20" ShipmentId="16" Type="Weapons" Quantity="90" Value="45000.00" />
+    <Cargo Id="21" ShipmentId="17" Type="Gold" Quantity="200" Value="100000.00" />
+    <Cargo Id="22" ShipmentId="18" Type="Rum" Quantity="300" Value="15000.00" />
+    <Cargo Id="23" ShipmentId="19" Type="Food" Quantity="120" Value="6000.00" />
+    <Cargo Id="24" ShipmentId="19" Type="Gems" Quantity="80" Value="40000.00" />
+    <Cargo Id="25" ShipmentId="20" Type="Weapons" Quantity="110" Value="55000.00" />
+  </Cargos>
+</Database>

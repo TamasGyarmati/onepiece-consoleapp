@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PirateShip Name="Thousand Sunny">
+  <Shipments>
+    <Shipment Date="2025-10-01T00:00:00" CargoCount="1" TotalValue="1.00" />
+  </Shipments>
+</PirateShip>

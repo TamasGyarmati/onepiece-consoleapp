@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PirateShip Name="Thousand Sunny">
+  <CapacityUtilization TotalCargo="100" Capacity="5000" UtilizationPercent="2" />
+</PirateShip>

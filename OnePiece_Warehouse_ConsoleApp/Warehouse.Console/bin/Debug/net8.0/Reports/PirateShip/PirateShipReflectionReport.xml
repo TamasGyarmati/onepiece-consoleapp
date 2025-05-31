@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PirateShip>
+  <Id>3</Id>
+  <Name>Black Pearl</Name>
+  <CaptainName>Jack Sparrow</CaptainName>
+  <Capacity>6000</Capacity>
+</PirateShip>

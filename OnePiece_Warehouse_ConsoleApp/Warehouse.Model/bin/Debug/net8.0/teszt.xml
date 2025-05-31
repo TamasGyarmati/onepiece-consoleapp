@@ -1,0 +1,44 @@
+<ShippingData>
+    <PirateShips>
+        <PirateShip>
+            <Id>1</Id>
+            <Name>Going Merry</Name>
+            <CaptainName>Luffy</CaptainName>
+            <Capacity>100</Capacity>
+        </PirateShip>
+        <PirateShip>
+            <Id>2</Id>
+            <Name>Thousand Sunny</Name>
+            <CaptainName>Franky</CaptainName>
+            <Capacity>200</Capacity>
+        </PirateShip>
+    </PirateShips>
+    <Shipments>
+        <Shipment>
+            <Id>1</Id>
+            <PirateShipId>1</PirateShipId>
+            <Date>2024-10-20</Date>
+        </Shipment>
+        <Shipment>
+            <Id>2</Id>
+            <PirateShipId>2</PirateShipId>
+            <Date>2024-10-21</Date>
+        </Shipment>
+    </Shipments>
+    <Cargos>
+        <Cargo>
+            <Id>1</Id>
+            <ShipmentId>1</ShipmentId>
+            <Type>Food</Type>
+            <Quantity>100</Quantity>
+            <Value>500</Value>
+        </Cargo>
+        <Cargo>
+            <Id>2</Id>
+            <ShipmentId>1</ShipmentId>
+            <Type>Gems</Type>
+            <Quantity>50</Quantity>
+            <Value>1000</Value>
+        </Cargo>
+    </Cargos>
+</ShippingData>

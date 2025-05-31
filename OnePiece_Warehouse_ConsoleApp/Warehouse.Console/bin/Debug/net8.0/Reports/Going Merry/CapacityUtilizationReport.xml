@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PirateShip Name="Going Merry">
+  <CapacityUtilization TotalCargo="700" Capacity="2000" UtilizationPercent="35" />
+</PirateShip>

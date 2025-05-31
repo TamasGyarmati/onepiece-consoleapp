@@ -1,0 +1,12 @@
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/bin/Debug/net8.0/Warehouse.Model.deps.json
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/bin/Debug/net8.0/Warehouse.Model.dll
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/bin/Debug/net8.0/Warehouse.Model.pdb
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.AssemblyInfoInputs.cache
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.AssemblyInfo.cs
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.csproj.CoreCompileInputs.cache
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.sourcelink.json
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.dll
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/refint/Warehouse.Model.dll
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/Warehouse.Model.pdb
+/Users/tamasgyarmati/RiderProjects/OnePiece_Warehouse_ConsoleApp/OnePiece_Warehouse_ConsoleApp/Warehouse.Model/obj/Debug/net8.0/ref/Warehouse.Model.dll
